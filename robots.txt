@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cameron-m-jewett.github.io/publiisite/sitemap.xml
